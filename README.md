@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile_Banner.png" alt="Bhavya Shah Banner" width="100%">
+  <img src="Profile_Banner.png" alt="Bhavya Shah Banner" width="100%">
 </p>
 
 # Hi 👋, I'm Bhavya Shah
