@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋, I'm Bhavya Shah
 
-<!--
-**Bhavyashah2710/Bhavyashah2710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI) Student at Parul University
 
-Here are some ideas to get you started:
+💻 Currently Learning
+- Java
+- DSA
+- Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects
+- AgroSphere
+- GigShield
+- Hackathon Task Manager
+
+🏆 Achievements
+- 190+ Problems Solved
+- Multiple Hackathon Participant
+
+📫 Connect With Me
+- LinkedIn: YOUR_LINKEDIN_LINK
