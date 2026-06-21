@@ -21,7 +21,7 @@
 - Multiple Hackathon Participant
 
 📫 Connect With Me
-- LinkedIn: YOUR_LINKEDIN_LINK
+- LinkedIn: https://www.linkedin.com/in/bhavya-shah-742732333/
 
 
 ## GitHub Stats
