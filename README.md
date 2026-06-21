@@ -17,7 +17,7 @@
 - Hackathon Task Manager
 
 🏆 Achievements
-- 190+ Problems Solved
+- 220+ Problems Solved
 - Multiple Hackathon Participant
 
 📫 Connect With Me
