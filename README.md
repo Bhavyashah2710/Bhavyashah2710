@@ -18,3 +18,10 @@
 
 📫 Connect With Me
 - LinkedIn: YOUR_LINKEDIN_LINK
+
+
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Bhavyashah2710&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavyashah2710&layout=compact)
