@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="Bhavya Shah Banner" width="100%">
+</p>
+
 # Hi 👋, I'm Bhavya Shah
 
 🎓 B.Tech CSE (AI) Student at Parul University
