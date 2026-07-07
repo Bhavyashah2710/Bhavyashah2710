@@ -19,13 +19,6 @@
 
 <br>
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Bhavyashah2710/Bhavyashah2710/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="90%" />
-</p>
-
-<br>
-
 ## 🧑‍💻 About Me
 - 🎓 B.Tech in Computer Science & Engineering (AI) at **Parul University**
 - 💡 Passionate about building practical, real-world software solutions
@@ -60,14 +53,16 @@
 
 <br>
 
-## 📊 GitHub Stats & Activity
-
+## 📊 3D Contribution Calendar
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bhavyashah2710&theme=radical&hide_border=true&cache_seconds=86400" width="70%" />
+  <img src="https://raw.githubusercontent.com/Bhavyashah2710/Bhavyashah2710/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="90%" />
 </p>
 
+<br>
+
+## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhavyashah2710&theme=react-dark&hide_border=true" width="90%" />
+  <img src="https://raw.githubusercontent.com/Bhavyashah2710/Bhavyashah2710/output/ocean.gif" alt="snake animation" width="90%" />
 </p>
 
 <br>
