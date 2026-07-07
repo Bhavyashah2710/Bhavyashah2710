@@ -60,16 +60,7 @@
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhavyashah2710&show_icons=true&theme=radical&count_private=true&hide_border=true&cache_seconds=1800" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavyashah2710&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" width="38%" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Bhavyashah2710&theme=radical&hide_border=true&cache_seconds=1800" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bhavyashah2710&theme=radical&no-frame=true&row=1&column=6" width="80%" />
 </p>
 
 <p align="center">
