@@ -51,7 +51,7 @@
 
 ### 🏆 Achievements
 
-- ✅ 250+ Data Structures & Algorithms problems solved
+- ✅ 300+ Data Structures & Algorithms problems solved
 - 🏅 Participated in multiple hackathons, building projects under real time constraints
 - 📚 Consistently learning and shipping new projects while pursuing my degree
 
