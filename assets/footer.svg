@@ -1,0 +1,30 @@
+<svg viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Arial, sans-serif">
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#0a0e14"/>
+    </linearGradient>
+    <linearGradient id="waveGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0.25"/>
+      <stop offset="50%" stop-color="#79C0FF" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#58A6FF" stop-opacity="0.25"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1200" height="220" fill="url(#fbg)"/>
+
+  <path d="M0,40 C 300,90 900,0 1200,50 L1200,0 L0,0 Z" fill="url(#waveGrad)" opacity="0.5"/>
+  <path id="wave" d="M0,55 C 300,100 900,20 1200,65" fill="none" stroke="#58A6FF" stroke-width="2" opacity="0.6">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite"
+      values="M0,55 C 300,100 900,20 1200,65;
+              M0,60 C 300,20 900,100 1200,55;
+              M0,55 C 300,100 900,20 1200,65"/>
+  </path>
+
+  <text x="600" y="130" text-anchor="middle" fill="#E6EDF3" font-size="26" font-weight="700">Thanks for stopping by!</text>
+  <text x="600" y="162" text-anchor="middle" fill="#8B949E" font-size="15">Let's build something great together — reach out anytime.</text>
+
+  <g transform="translate(600,185)">
+    <rect x="-70" y="-4" width="140" height="1" fill="#30363D"/>
+  </g>
+</svg>
