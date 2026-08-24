@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=B.Tech+CSE+(AI)+Student+%40+Parul+University;Aspiring+Software+%2F+AI+Engineer;Learning+Java+%2C+DSA+%26+Web+Development;300%2B+DSA+Problems+Solved+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=B.Tech+CSE+(AI)+Student+%40+Parul+University;Aspiring+Software+%2F+AI+Engineer;Java+%7C+DSA+%7C+Web+Development;300%2B+DSA+Problems+Solved+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,36 +17,23 @@
   <a href="https://github.com/Bhavyashah2710">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=0D1117" />
   </a>
+  <a href="https://leetcode.com/u/Bhavya_Shah_27/">
+    <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0D1117" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=Bhavyashah2710&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="profile views" />
 </p>
 
 <img src="assets/divider.svg" width="100%">
 
-## 🧑‍💻 About
+## 🧑‍💻 About Me
 
-<table>
-<tr>
-<td width="50%" valign="top">
+🎓 B.Tech Computer Science & Engineering (Artificial Intelligence) student at **Parul University**.
 
-**🎓 Education**
-B.Tech in Computer Science & Engineering (Artificial Intelligence)
-Parul University
+💻 Interested in **Software Development, AI, Backend Development, and Data Structures & Algorithms**.
 
-**💡 What I care about**
-Building practical, real-world software — not just tutorial projects.
+🚀 I enjoy turning ideas into practical projects and continuously improving through coding, projects, and hackathons.
 
-</td>
-<td width="50%" valign="top">
-
-**🌱 Currently sharpening**
-Java · Data Structures & Algorithms · Web Development
-
-**🤝 Open to**
-Internship opportunities, collaborations, and open-source contributions
-
-</td>
-</tr>
-</table>
+🤝 Open to **internships, collaborations, open-source contributions, and learning opportunities**.
 
 <img src="assets/divider.svg" width="100%">
 
@@ -55,9 +42,9 @@ Internship opportunities, collaborations, and open-source contributions
 <p align="left">
   <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=58A6FF&labelColor=0D1117"/>
   <img src="https://img.shields.io/badge/DSA-0D1117?style=for-the-badge&logo=leetcode&logoColor=58A6FF&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Web%20Development-0D1117?style=for-the-badge&logo=htmx&logoColor=58A6FF&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Web%20Development-0D1117?style=for-the-badge&logo=html5&logoColor=58A6FF&labelColor=0D1117"/>
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-0D1117?style=for-the-badge&logo=openai&logoColor=58A6FF&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Backend%20Development-0D1117?style=for-the-badge&logo=fastapi&logoColor=58A6FF&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Backend%20Development-0D1117?style=for-the-badge&logo=flask&logoColor=58A6FF&labelColor=0D1117"/>
   <img src="https://img.shields.io/badge/Open%20Source-0D1117?style=for-the-badge&logo=opensourceinitiative&logoColor=58A6FF&labelColor=0D1117"/>
 </p>
 
@@ -78,48 +65,68 @@ Internship opportunities, collaborations, and open-source contributions
 <td width="50%" valign="top">
 
 ### 🌱 AgroSphere
-A solution built to support the agriculture domain.
+Multilingual agriculture-focused platform designed to provide farmers with useful crop and farming information.
 
-`Focus: AgriTech`
+`Focus: AgriTech · AI · Web`
 
-<a href="https://github.com/Bhavyashah2710"><img src="https://img.shields.io/badge/View%20Repo-58A6FF?style=for-the-badge&logo=github&logoColor=0D1117"/></a>
+<a href="https://github.com/Bhavyashah2710/Agrosshphere"><img src="https://img.shields.io/badge/View%20Repo-58A6FF?style=for-the-badge&logo=github&logoColor=0D1117"/></a>
+<a href="https://bhavyashah2710.github.io/Agrosshphere/"><img src="https://img.shields.io/badge/Live%20Demo-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF"/></a>
 
 </td>
 <td width="50%" valign="top">
-
-
 
 ### ✅ Hackathon Task Manager
-A lightweight Flask-based task manager built for hackathon teams.
+Flask-based task management application created to organize hackathon tasks and team workflow.
 
-`Tech: Python · Flask`
+`Tech: Python · Flask · HTML · CSS`
 
 <a href="https://github.com/Bhavyashah2710/hackathon-task-manager"><img src="https://img.shields.io/badge/View%20Repo-58A6FF?style=for-the-badge&logo=github&logoColor=0D1117"/></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 📁 BS File Hub
-A basic webpage to upload and download files.
-
-`Tech: HTML · CSS · JS`
-
-<a href="https://github.com/Bhavyashah2710/BS-File-Hub"><img src="https://img.shields.io/badge/View%20Repo-58A6FF?style=for-the-badge&logo=github&logoColor=0D1117"/></a>
+<a href="https://hackathon-task-manager.onrender.com"><img src="https://img.shields.io/badge/Live%20Demo-0D1117?style=for-the-badge&logo=render&logoColor=58A6FF"/></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
+### 📁 BS File Hub
+Simple web application for uploading and downloading files with a clean frontend experience.
+
+`Tech: HTML · CSS · JavaScript`
+
+<a href="https://github.com/Bhavyashah2710/BS-File-Hub"><img src="https://img.shields.io/badge/View%20Repo-58A6FF?style=for-the-badge&logo=github&logoColor=0D1117"/></a>
+<a href="https://bs-file-hub.onrender.com"><img src="https://img.shields.io/badge/Live%20Demo-0D1117?style=for-the-badge&logo=render&logoColor=58A6FF"/></a>
+
+</td>
+<td width="50%" valign="top">
+
 ### 🍱 Tiffin Service Website
-A tiffin service website built using HTML & CSS.
+Responsive tiffin service website focused on a simple and clean food-service browsing experience.
 
 `Tech: HTML · CSS`
 
 <a href="https://github.com/Bhavyashah2710/Tiffin-Service-Website-by-HTML-and-CSS"><img src="https://img.shields.io/badge/View%20Repo-58A6FF?style=for-the-badge&logo=github&logoColor=0D1117"/></a>
+<a href="https://bhavyashah2710.github.io/Tiffin-Service-Website-by-HTML-and-CSS/"><img src="https://img.shields.io/badge/Live%20Demo-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Project in MERN
+Collection of web projects built while learning and practicing modern web development concepts.
+
+`Focus: Web Development · MERN`
+
+<a href="https://github.com/Bhavyashah2710/Project_in_Mern"><img src="https://img.shields.io/badge/View%20Repo-58A6FF?style=for-the-badge&logo=github&logoColor=0D1117"/></a>
+<a href="https://bhavyashah2710.github.io/Project_in_Mern/"><img src="https://img.shields.io/badge/Live%20Demo-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF"/></a>
 
 </td>
 <td width="50%" valign="top">
+
+### 💼 More on GitHub
+Explore additional experiments, practice work, DSA solutions, and learning projects.
+
+<a href="https://github.com/Bhavyashah2710?tab=repositories"><img src="https://img.shields.io/badge/Explore%20Repositories-58A6FF?style=for-the-badge&logo=github&logoColor=0D1117"/></a>
 
 </td>
 </tr>
@@ -127,26 +134,39 @@ A tiffin service website built using HTML & CSS.
 
 <img src="assets/divider.svg" width="100%">
 
-## 🏆 Achievements
+## 🏆 Coding Profiles
+
+<p align="left">
+  <a href="https://leetcode.com/u/Bhavya_Shah_27/"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0D1117"/></a>
+  <a href="https://codeforces.com/profile/shahbhavyav27"><img src="https://img.shields.io/badge/Codeforces-0D1117?style=for-the-badge&logo=codeforces&logoColor=1F8ACB&labelColor=0D1117"/></a>
+  <a href="https://codolio.com/profile/Bhavya_Shah"><img src="https://img.shields.io/badge/Codolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF&labelColor=0D1117"/></a>
+  <a href="https://www.hackerrank.com/profile/mr_shah27271001"><img src="https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=2EC866&labelColor=0D1117"/></a>
+  <a href="https://www.codechef.com/users/wide_dance_79"><img src="https://img.shields.io/badge/CodeChef-0D1117?style=for-the-badge&logo=codechef&logoColor=5B4638&labelColor=0D1117"/></a>
+  <a href="https://www.geeksforgeeks.org/profile/shahbhav2hc"><img src="https://img.shields.io/badge/GeeksforGeeks-0D1117?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46&labelColor=0D1117"/></a>
+</p>
+
+<img src="assets/divider.svg" width="100%">
+
+## 🏅 Highlights
 
 <table>
 <tr>
 <td align="center" width="33%">
 
-**✅ 300+**
-DSA problems solved
+**🚀 300+**  
+DSA Problems Solved
 
 </td>
 <td align="center" width="33%">
 
-**🏅 Multiple**
-Hackathons — real-time builds
+**🏆 Multiple**  
+Hackathon Experiences
 
 </td>
 <td align="center" width="33%">
 
-**📚 Continuous**
-Learning while shipping projects
+**💻 5+**  
+Featured Projects
 
 </td>
 </tr>
@@ -182,6 +202,9 @@ Learning while shipping projects
   </a>
   <a href="https://github.com/Bhavyashah2710">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=0D1117" />
+  </a>
+  <a href="https://codolio.com/profile/Bhavya_Shah">
+    <img src="https://img.shields.io/badge/Codolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF&labelColor=0D1117" />
   </a>
 </p>
 
