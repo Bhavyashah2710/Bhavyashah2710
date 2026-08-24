@@ -87,17 +87,7 @@ A solution built to support the agriculture domain.
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ GigShield
-A hackathon project focused on gig-worker protection.
 
-`Focus: Hackathon · Social Impact`
-
-<a href="https://github.com/Bhavyashah2710/GigShield"><img src="https://img.shields.io/badge/View%20Repo-58A6FF?style=for-the-badge&logo=github&logoColor=0D1117"/></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
 ### ✅ Hackathon Task Manager
 A lightweight Flask-based task manager built for hackathon teams.
