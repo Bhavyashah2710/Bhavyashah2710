@@ -153,7 +153,7 @@ Explore additional experiments, practice work, DSA solutions, and learning proje
 <tr>
 <td align="center" width="33%">
 
-**🚀 300+**  
+**🚀 390+**  
 DSA Problems Solved
 
 </td>
