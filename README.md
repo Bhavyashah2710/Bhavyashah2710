@@ -94,7 +94,7 @@ Simple web application for uploading and downloading files with a clean frontend
 `Tech: HTML · CSS · JavaScript`
 
 <a href="https://github.com/Bhavyashah2710/BS-File-Hub"><img src="https://img.shields.io/badge/View%20Repo-58A6FF?style=for-the-badge&logo=github&logoColor=0D1117"/></a>
-<a href="https://bs-file-hub.onrender.com"><img src="https://img.shields.io/badge/Live%20Demo-0D1117?style=for-the-badge&logo=render&logoColor=58A6FF"/></a>
+<a href="https://bs-file-hub-4ug2.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-0D1117?style=for-the-badge&logo=render&logoColor=58A6FF"/></a>
 
 </td>
 <td width="50%" valign="top">
